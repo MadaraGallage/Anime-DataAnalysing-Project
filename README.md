@@ -15,7 +15,7 @@ Using **Python**, **SQL Server**, and **Tableau**, I cleaned, queried, and visua
 
 ---
 
-## 🧩 Tools & Technologies
+##  Tools & Technologies
 
 | Step | Tool | Purpose |
 |------|------|----------|
@@ -32,7 +32,7 @@ A scatter plot comparing **Members (popularity)** and **Ratings** shows that whi
 
 ---
 
-### 🎭 Average Ratings by Genre  
+###  Average Ratings by Genre  
 Genres like **Action**, **Drama**, and **Adventure** dominate in volume and tend to score consistently above average.  
 Lighter genres such as **Comedy** and **Romance** have more variability in ratings.
 
